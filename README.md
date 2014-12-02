@@ -12,7 +12,7 @@ var symbols = {
 # Install
 
 ```
-npm i maboiteaspam/symbolsjs
+npm i maboiteaspam/symbolsjs --save
 ```
 
 # Notes
