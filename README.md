@@ -14,7 +14,7 @@ var symbols = {
 # Install
 
 ```
-npm i maboiteaspam/symbolsjs --save
+npm i symbolsjs --save
 ```
 
 # Notes
